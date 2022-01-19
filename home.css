@@ -82,7 +82,7 @@ button
 {
     height: 400px;
     
-    background-image: url("../images/3.jpeg");
+    background-image: url("3.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ button
 {
     height: 400px;
     
-    background-image: url("../images/4.jpeg");
+    background-image: url("4.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -100,7 +100,7 @@ button
 {
     height: 400px;
    
-    background-image: url("../images/8.jpeg");
+    background-image: url("8.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ h1{
 
 .content3
 {
-    background-image: url("../images/10.jpeg");
+    background-image: url("10.jpeg");
     height: 700px;
     width: 100%;
     background-position: center;
